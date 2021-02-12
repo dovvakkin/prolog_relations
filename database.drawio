@@ -1,0 +1,148 @@
+<mxfile host="Electron" modified="2021-02-12T09:57:12.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.1.8 Chrome/87.0.4280.88 Electron/11.1.1 Safari/537.36" etag="ZvMedNhz3yuUwIvPdSz3" compressed="false" version="14.1.8" type="device">
+  <diagram id="6eU1Orv1qe38phpYk6d4" name="Page-1">
+    <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FRszm2504FQOG3grtl82-1" value="Иван" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-2" value="Анастасия" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-3" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="FRszm2504FQOG3grtl82-1" target="FRszm2504FQOG3grtl82-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-4" value="Федор" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-5" value="Сергей" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="350" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-6" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="180" as="sourcePoint" />
+            <mxPoint x="420" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-7" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="180" as="sourcePoint" />
+            <mxPoint x="420" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-8" value="Александр" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="480" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-9" value="Софья" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="700" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-10" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="FRszm2504FQOG3grtl82-8" target="FRszm2504FQOG3grtl82-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="340" as="sourcePoint" />
+            <mxPoint x="670" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-11" value="Алиса" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-12" value="Егор" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-13" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="180" as="sourcePoint" />
+            <mxPoint x="780" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-14" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="180" as="sourcePoint" />
+            <mxPoint x="780" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-15" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="FRszm2504FQOG3grtl82-11" target="FRszm2504FQOG3grtl82-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="350" as="sourcePoint" />
+            <mxPoint x="390" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-16" value="Екатерина" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-17" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="FRszm2504FQOG3grtl82-16" target="FRszm2504FQOG3grtl82-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="430" as="sourcePoint" />
+            <mxPoint x="430" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-18" value="Максим" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-19" value="Владимир" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-20" value="Мария" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-22" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="300" as="sourcePoint" />
+            <mxPoint x="320" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-23" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="300" as="sourcePoint" />
+            <mxPoint x="320" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-24" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="300" as="sourcePoint" />
+            <mxPoint x="490" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-25" value="Алёна" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-26" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="FRszm2504FQOG3grtl82-19" target="FRszm2504FQOG3grtl82-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-27" value="Альберт" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="130" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-28" value="Ирина" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="294" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-30" value="Анна" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-31" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-32" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="420" as="sourcePoint" />
+            <mxPoint x="410" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRszm2504FQOG3grtl82-33" value="" style="endArrow=classic;html=1;fontSize=22;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" target="FRszm2504FQOG3grtl82-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="410" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
